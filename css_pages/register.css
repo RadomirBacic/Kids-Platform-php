@@ -1,0 +1,34 @@
+.formDesign{
+    padding-top: 200px;
+}
+
+.labelDesign{
+    display: inline-block;
+    color: rgb(68, 66, 179);
+    width: 100%;     
+}
+
+.registerForm{
+    background-color: #E4A5FF;
+    width: 320px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.registerTittleDesign{
+    background-color: rgb(191, 154, 224);
+    color: rgb(68, 66, 179);
+    text-align: center;
+    font-weight: bold;
+    width: 320px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.inputDesign{
+    width: 70%;
+    height: 35px;
+    border-radius: 8px;
+    border: 1px solid blue;
+}
